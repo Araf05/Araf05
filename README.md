@@ -1,9 +1,8 @@
 <h1 align='center'>Saludos! mi nombre es Araceli </h1>
 <h3 align='center'> :star:Bienvenidos a mi perfil:star: </h3>
 
-<h2>Estudios y proyectos</h2>
-<p> :large_blue_diamond: Actualmente estoy estudiando la carrera de Técnico Universitario en Programación en la Universidad Tecnológica Nacional.</p>
-<p>:large_blue_diamond: Proyecto actual: Portfolio personal</p>
+<h2>Programador Jr</h2>
+<p> :large_blue_diamond: Actualmente cursando la Tecnicatura Universitaria en Programación en la UTN</p>
 <br>
 <div align="center">
     <img  height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=araf05&show_icons=true&locale=en&layout=compact&theme=solarized-light" alt="araf05" />
