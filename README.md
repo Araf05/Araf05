@@ -1,7 +1,7 @@
 <h1 align='center'>Saludos! mi nombre es Araceli </h1>
 <h3 align='center'> :star:Bienvenidos a mi perfil:star: </h3>
 
-<h2>Programador Jr</h2>
+<h2>Programadora</h2>
 <p> :large_blue_diamond: Actualmente cursando la Tecnicatura Universitaria en Programación en la UTN</p>
 <br>
 <div align="center">
