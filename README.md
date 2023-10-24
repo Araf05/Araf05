@@ -1,7 +1,7 @@
 <h1 align='center'> Hi! I'm Araceli <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <h3 align='center'> :star:Bienvenidos a mi perfil:star: </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=e06666&size=30&lines=Hi!+It's+Ara!;I'm+a+Software+Developer...;I'm+also+Frontend+Developer...;And+I+love+game+development&#128147)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=e06666&size=30&lines=Software+Developer...;Frontend...;Game+Developer;&#128147)](https://git.io/typing-svg)
 <p> :large_blue_diamond: Actualmente cursando la Tecnicatura Universitaria en Programación en la UTN</p>
 <p>🔭 I'm currently working on Android projects</p>
 <p>🌱 I'm currently learning C++, JS & Kotlin</p>
