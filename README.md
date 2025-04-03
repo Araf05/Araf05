@@ -1,9 +1,10 @@
 <h1 align='center'> Hola! soy Araceli <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <h3 align='center'> :star:Bienvenidos a mi perfil:star: </h3>
 
-<p> :large_blue_diamond: Estudiando la Tecnicatura Universitaria en Programación en la UTN</p>
-<p>🔭 Actualmente tabajando en proyectos con .net y C#</p>
-<p>🌱 Aprendiendo desarrollo web Back end con Java</p>
+<p>💎 Pasante de IT en Cummins Argentina
+<p>📚 Carrera: Tecnicatura Universitaria en Programación - UTN</p>
+<p>🔭 Actualmente tabajando en proyectos personales con JavaScript</p>
+<p>🌱 Aprendiendo desarrollo web con JS</p>
 <br>
 <div align="center">
     <img  height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=araf05&show_icons=true&locale=en&layout=compact&theme=calm" alt="araf05" />
@@ -14,7 +15,7 @@
 <div align="center" style="display:inline-block"> 
     <br>
     <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,html,js,cs,net,java,idea,visualstudio,vscode&theme=light&perline=6" />
+     <img src="https://skillicons.dev/icons?i=git,bootstrap,html,css,js,cs,net,cpp&theme=light&perline=6" />
     </a>
 </div>
 <br>
